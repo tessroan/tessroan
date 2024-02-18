@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Tess Roan</h1>
 <h3 align="center">A Codecademy student with Insurance QA and analytics skills</h3>
 
-- 🌱 I’m currently learning **Python pandas and Microsoft Power BI**
+- 🌱 I’m currently learning **Python pandas and Microsoft Power BI.**
 
-- 🤝 I’m looking for help with **Python pandas, intermediate Python project ideas, and Microsoft Power BI**
+- 🤝 I’m looking for help with **Python pandas, intermediate Python project ideas, and Microsoft Power BI.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tessroan/tessroan](https://github.com/tessroan/tessroan)
 
-- 📫 How to reach me **tess.roan@gmail.com**
+- 📫 How to reach me: **tess.roan@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/tessroan](www.linkedin.com/in/tessroan)
+- 📄 Know about my experiences: [www.linkedin.com/in/tessroan](www.linkedin.com/in/tessroan)
 
-- ⚡ Fun fact **I'm a twin**
+- ⚡ Fun fact: **I'm a twin**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
