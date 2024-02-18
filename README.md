@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tess Roan</h1>
-<h3 align="center">An Codecademy student with Insurance QA and analytics skills</h3>
+<h3 align="center">A Codecademy student with Insurance QA and analytics skills</h3>
 
 - 🌱 I’m currently learning **Python pandas and Microsoft Power BI**
 
